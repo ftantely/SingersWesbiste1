@@ -1,0 +1,22 @@
+.MainContainer {
+    margin-left:700px;
+    margin-right: 900px;
+    border-color: blue;
+    border-width: 500px;
+}
+
+.menu1 {
+    width: 700px;
+
+    border-color: red;
+}
+
+.menuButton {
+    margin-right: 20px;
+    color: blue;
+    font-weight: bold;
+    border-color: red;
+    background-color: darkgrey;
+    border-radius: 5px;
+    padding: 5px;
+}
